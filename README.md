@@ -1,4 +1,4 @@
-# Analysis Project: Effect of Data transmission on both Transmitter and Receiver CPU Load
+# Hardware Testing Project: Effect of Data transmission on both Transmitter and Receiver CPU Load
 We made experiment by transmit artificial data between two points with distance of 100m and applied many transmission settings manually over several time periods (each period represent different settings) details of transmission settings can be found in the settings.json file
 
 We extracted CPU usage and throughput and datetime metrics from transmission points pcap tracefile with tcpstat of 1 second sampling rate
